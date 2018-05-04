@@ -1,0 +1,3 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.pdb

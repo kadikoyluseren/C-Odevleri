@@ -1,0 +1,24 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe.config
+C:\Users\Lenovo\Desktop\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Desktop\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Desktop\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\okul\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe.config
+C:\Users\Lenovo\Desktop\okul\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Desktop\okul\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\okul\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\okul\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Desktop\okul\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev3\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe.config
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev3\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev3\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev3\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev3\HW3_16253037\HW3_16253037\bin\Debug\HW3_16253037.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev3\HW3_16253037\HW3_16253037\obj\Debug\HW3_16253037.csprojResolveAssemblyReference.cache
