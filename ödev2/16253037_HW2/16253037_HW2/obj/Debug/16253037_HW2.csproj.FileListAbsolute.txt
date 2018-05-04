@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.pdb
+C:\Users\Lenovo\Desktop\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe.config
+C:\Users\Lenovo\Desktop\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.exe
+C:\Users\Lenovo\Desktop\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.pdb
+C:\Users\Lenovo\Desktop\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe
+C:\Users\Lenovo\Desktop\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.pdb
+C:\Users\Lenovo\Desktop\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe.config
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev2\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe.config
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev2\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev2\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev2\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev2\16253037_HW2\16253037_HW2\bin\Debug\16253037_HW2.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev2\16253037_HW2\16253037_HW2\obj\Debug\16253037_HW2.csprojResolveAssemblyReference.cache
