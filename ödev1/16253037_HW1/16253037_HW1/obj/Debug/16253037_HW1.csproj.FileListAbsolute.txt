@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.pdb
+C:\Users\Lenovo\Desktop\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.exe.config
+C:\Users\Lenovo\Desktop\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.exe
+C:\Users\Lenovo\Desktop\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.pdb
+C:\Users\Lenovo\Desktop\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.exe
+C:\Users\Lenovo\Desktop\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.pdb
+C:\Users\Lenovo\Desktop\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev1\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.exe.config
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev1\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev1\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev1\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.exe
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev1\16253037_HW1\16253037_HW1\bin\Debug\16253037_HW1.pdb
+C:\Users\Lenovo\Desktop\okul\16-17\2.dönem\NESNEYE YÖNELİK PROGRAMLAMA\ödev\ödev1\16253037_HW1\16253037_HW1\obj\Debug\16253037_HW1.csprojResolveAssemblyReference.cache
